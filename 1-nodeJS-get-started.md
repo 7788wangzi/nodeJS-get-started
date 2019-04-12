@@ -229,7 +229,7 @@ server.listen(3000,function(){
 
 output result:
 
-![](D:\DocumentLibrary\Typora_Files\study\static\9multiply9table.PNG)
+![](static\9multiply9table.PNG)
 
 
 
