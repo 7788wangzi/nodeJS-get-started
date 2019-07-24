@@ -32,6 +32,10 @@ Open command prompt, create a new folder:
 mkdir first-app
 cd first-app
 ```
+Use `npm` to initialized a new Node.js app, this will create a **package.json** file containing metadata that describes the app.
+```commandline
+npm init -y
+```
 
 Open this folder in Visual Studio Code:
 
